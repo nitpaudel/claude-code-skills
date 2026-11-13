@@ -1,5 +1,5 @@
 ---
-name: deep-research
+name: deep-researchh
 description: >-
   Creates reusable, source-traced research reports and coordinates provider/mode lanes with original
   exports. Use for 深度研究, 调研报告, literature reviews, market or company research, and
